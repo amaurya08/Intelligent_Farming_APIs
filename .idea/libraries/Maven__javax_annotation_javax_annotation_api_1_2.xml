@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: javax.annotation:javax.annotation-api:1.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_66/lib/mysql-connector.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

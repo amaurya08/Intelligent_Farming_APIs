@@ -1,0 +1,5 @@
+Farmer ---> containt data of all farmer fetched from farmer
+ResultAllSensor --> Pojo for all sensor data
+ResultResponse --> final response of any request
+SensorPojo --> class for storing the sensor data from database
+SensorValue --> class for storing allotted sensor details
